@@ -1,0 +1,8 @@
+\section{Theory}
+Theory background.
+\begin{itemize}
+ \item Governing equations.
+ \item Passive flow control theory.
+ \item Numerical methods being used.
+\end{itemize}
+

@@ -1,0 +1,5 @@
+\section{Ramp}
+Explanation of the ramp setup. Including the two profiles chosen to enhance the separation effect. Swept vs unswept configuration and the vane addition.
+\input{"./Unswept/Unswept.tex"}
+\input{"./Swept/Swept.tex"}
+\input{"./Vane/Vane.tex"}

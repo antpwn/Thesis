@@ -1,0 +1,34 @@
+\begin{titlepage}
+\begin{center}
+
+        {\LARGE On the Effects of Micro-Vortex-Generators on a Finite Wing in a Subsonic Flow \par}
+         \vskip 1em
+        {\LARGE \selectlanguage{hebrew}על ההשפעות של מחוללי מערבולות זעירים על כנף סופית בזרימה תת-קולית\selectlanguage{english} \par}
+        \vskip 2em
+        A Master's Thesis Proposal \\
+        {\tiny by} \\
+        Anton Ronis\\
+        \vskip 2em
+        Principle Advisor \par
+        Prof.~Daniella Raveh \par
+        \vskip 2em
+        Secondary Advisor \par
+        Prof.~Rimon Arieli \par
+        {\Large \makebox[3in]{\hrulefill} \par}
+        \vskip 1em
+        {\small
+            \today \\
+            Faculty of Aerospace Engineering\\
+            Technion - Israel Institute of Technology\\
+            Technion City, Haifa 32000, Israel\\}
+    \par
+
+% prevent a page break from being put at the end of the title page so that 
+            % the contents of the paper spill onto the title page
+    % save the function of the \newpage macro so we can restore it later
+    \global\let\newpagegood\newpage
+    \global\let\newpage\relax
+\end{center}
+\end{titlepage}
+% restore the \newpage command after creating the title page
+\global\let\newpage\newpagegood
