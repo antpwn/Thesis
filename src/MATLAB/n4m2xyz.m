@@ -14,11 +14,11 @@ n_pts           =   1e3;
 % find maximum thickness array index
 max_t_ind       =   find(data(:,1) <= 0.4,1);
 % get 4 points before max thickness
-x_b             =   data(max_t_ind:max_t_ind+3,1);
-y_b             =   data(max_t_ind:max_t_ind+3,2);
-% get 4 points after max thickness
-x_a             =   data([1 max_t_ind-2:max_t_ind],1);
-y_a             =   data([1 max_t_ind-2:max_t_ind],2);
+x_b             =   data([1 max_t_ind:max_t_ind+2],1);
+y_b             =   data([1 max_t_ind:max_t_ind+2],2);
+% get 4 points after max thickness, assume sharp T.E.
+x_a             =   [1;data(max_t_ind-2:max_t_ind,1)];
+y_a             =   [0;data(max_t_ind-2:max_t_ind,2)];
 %% analyze
 % solve for the a0..a3 coefs for the before equation
 A_b     =   [sqrt(x_b(1)) x_b(1) x_b(1)^2 x_b(1)^3;
