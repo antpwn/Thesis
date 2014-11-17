@@ -1,13 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.11.10)  15 NOV 2014 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.11.17)  18 NOV 2014 01:56
 entering extended mode
-**Research*Proposal.tex
-("D:\Workspace\Thesis\docs\LaTeX\Research Proposal\Research Proposal.tex"
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Research Proposal.tex"
+(./Research Proposal.tex
 LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 68 languages loaded.
-("D:\Apps\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("D:\Apps\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+Babel <3.9k> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -21,18 +23,18 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-("D:\Apps\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+(/usr/share/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ))
-("D:\Apps\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+(/usr/share/texmf-dist/tex/latex/ucs/ucs.sty
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-("D:\Apps\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+(/usr/share/texmf-dist/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count87
@@ -40,25 +42,19 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks17
 \uc@temptokena=\toks18
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\babel\babel.sty"
-Package: babel 2014/09/25 3.9l The Babel package
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("D:\Apps\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-("D:\Apps\MiKTeX 2.9\tex\latex\babel-hebrew\rlbabel.def"
+(/usr/share/texmf-dist/tex/generic/babel-hebrew/rlbabel.def
 File: rlbabel.def 2005/03/30 v2.3h Right-to-Left support from the babel system 
 Hebrew language support from the babel system
 )
-(C:\ProgramData\MiKTeX\2.9\tex\latex\babel-hebrew\hebrew.ldf
+(/usr/share/texmf-dist/tex/generic/0babel/hebrew.ldf
 File: hebrew.ldf 2004/02/20 v2.3h Hebrew language definition from the babel sys
 tem Hebrew language support from the babel system
 
-("D:\Apps\MiKTeX 2.9\tex\latex\babel\babel.def"
-File: babel.def 2014/09/25 3.9l Babel common definitions
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
@@ -70,33 +66,34 @@ Package babel Warning: No hyphenation patterns were preloaded for
 (babel)                preloaded for english instead on input line 57.
 
 \l@hebrew = a dialect from \language0
-) ("D:\Apps\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(C:\ProgramData\MiKTeX\2.9\tex\latex\babel-hebrew\he8enc.def
-File: HE8enc.def 8-bit Hebrew font encoding
+(/usr/share/texmf-dist/tex/generic/babel-hebrew/he8enc.def
+File: HE8enc.def 2005/05/20 v1.2c 8-bit Hebrew font encoding (test version: sti
+ll liable to change)
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("D:\Apps\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("D:\Apps\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks19
 \ex@=\dimen104
 ))
-("D:\Apps\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count89
@@ -137,41 +134,41 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("D:\Apps\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\Apps\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("D:\Apps\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("D:\Apps\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("D:\Apps\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count101
@@ -179,10 +176,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-("D:\Apps\MiKTeX 2.9\tex\latex\caption\caption.sty"
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-("D:\Apps\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen115
@@ -203,8 +200,8 @@ See the caption package documentation for explanation.
 Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
 p \begin {center}#1: #2\end {center} \par \vskip \belowcaptionskip .
 \c@ContinuedFloat=\count102
-) ("D:\Apps\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
-Package: subfigure 2002/07/30 v2.1.4 subfigure package
+) (/usr/share/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip46
 \subfigcapskip=\skip47
 \subfigcaptopadj=\dimen122
@@ -219,19 +216,19 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-("D:\Apps\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+(/usr/share/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip50
 \subfig@bottom=\skip51
 )
-("D:\Workspace\Thesis\docs\LaTeX\Research Proposal\Research Proposal.aux"
-LaTeX Font Info:    Try loading font information for HE8+cmr on input line 8.
+(./Research Proposal.aux
+LaTeX Font Info:    Try loading font information for HE8+cmr on input line 22.
 
-(C:\ProgramData\MiKTeX\2.9\tex\latex\babel-hebrew\he8cmr.fd
-File: HE8cmr.fd Hebrew default font
-)
-LaTeX Font Info:    Font shape `HE8/cmr/m/n' will be
-(Font)              scaled to size 10.0pt on input line 8.
-)
+(/usr/share/texmf-dist/tex/generic/babel-hebrew/he8cmr.fd
+File: HE8cmr.fd 2005/05/20 v1.2c Hebrew default font (test version: still liabl
+e to change)
+))
+\openout1 = `"Research Proposal.aux"'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
@@ -247,10 +244,10 @@ LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for HE8/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 
-("D:\Apps\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+(/usr/share/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-("D:\Apps\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
 \scratchdimen=\dimen124
@@ -263,56 +260,113 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 \MPnumerator=\count111
 \makeMPintoPDFobject=\count112
 \everyMPtoPDFconversion=\toks26
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
- ("D:\Workspace\Thesis\docs\LaTeX\Research Proposal\title.tex"
-LaTeX Font Info:    Font shape `HE8/cmr/m/n' will be
-(Font)              scaled to size 17.28pt on input line 6.
-
-("D:\Apps\MiKTeX 2.9\tex\latex\ucs\uni-5.def"
+ (./title.tex
+(/usr/share/texmf-dist/tex/latex/ucs/data/uni-5.def
 File: uni-5.def 2013/05/13 UCS: Unicode data U+0500..U+05FF
 ))
 LaTeX Font Info:    Try loading font information for U+msa on input line 23.
 
-("D:\Apps\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 23.
 
-("D:\Apps\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/ant0wn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-("D:\Apps\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+(/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [3]
-("D:\Workspace\Thesis\docs\LaTeX\Research Proposal\Research Proposal.aux") ) 
+)
+
+Package ucs Warning: This text contains LRM/RLM/LRE/RLE characters.
+(ucs)                Note that these are ignored because of incomplete
+(ucs)                right-to-left capability. Try using LRO/RLO/PDF
+(ucs)                characters instead to ensure correct order.
+(ucs)                 on input line 57.
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 67--68
+[]\OT1/cmr/m/n/10 Ying-hong Li, Yun Wu, Hui-min Song, Hua Liang and Min
+ []
+
+[3] [4] (./Research Proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 4779 strings out of 493705
- 66254 string characters out of 3148193
- 135081 words of memory out of 3000000
- 8043 multiletter control sequences out of 15000+200000
- 9680 words of font info for 35 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 36i,5n,38p,387b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:
-/ProgramData/MiKTeX/2.9/dvips/base/culmus-he8.enc}<C:/ProgramData/MiKTeX/2.9/fo
-nts/type1/public/culmus/DavidCLM-Medium.pfa><D:/Apps/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmbx10.pfb><D:/Apps/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb><D:/Apps/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Ap
-ps/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Apps/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><D:/Apps/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr17.pfb><D:/Apps/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb
-><D:/Apps/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Apps/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/Apps/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><D:/Apps/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
-i10.pfb><D:/Apps/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Research Proposal.pdf" (3 pages, 169210 bytes).
+ 4944 strings out of 493108
+ 69659 string characters out of 6140724
+ 142915 words of memory out of 5000000
+ 8319 multiletter control sequences out of 15000+600000
+ 10154 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,4n,38p,767b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/culmu
+s/he8.enc}</usr/share/texmf-dist/fonts/type1/public/culmus/DavidCLM-Medium.pfa>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "Research Proposal.pdf" (4 pages, 170127 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
