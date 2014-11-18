@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.11.17)  18 NOV 2014 17:46
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.11.17)  18 NOV 2014 17:40
->>>>>>> 54dbabaf41a0e1c7c831f0fe34e118e9d4d76937
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.11.17)  18 NOV 2014 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,11 +338,7 @@ Package ucs Warning: This text contains LRM/RLM/LRE/RLE characters.
 (ucs)                 on input line 56.
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 1584) in paragraph at lines 58--65
-=======
-Underfull \hbox (badness 1584) in paragraph at lines 66--67
->>>>>>> 54dbabaf41a0e1c7c831f0fe34e118e9d4d76937
 []\OT1/cmr/m/n/10 Ying-hong Li, Yun Wu, Hui-min Song, Hua Liang and Min
  []
 
@@ -371,11 +363,7 @@ ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/s
 hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-<<<<<<< HEAD
 Output written on "Research Proposal.pdf" (3 pages, 166870 bytes).
-=======
-Output written on "Research Proposal.pdf" (3 pages, 166874 bytes).
->>>>>>> 54dbabaf41a0e1c7c831f0fe34e118e9d4d76937
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
