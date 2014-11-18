@@ -15,20 +15,19 @@
 \input{./title.tex}
 
 \section{Background}
-Flow separation is generally regarded as an unwanted phenomenon. It mainly concerns flight applications such as airplane wings and stabilizers, but affects as well other fluid dynamics applications such as ground vehicles and internal diffusers flow. When unattended, flow separation can lead to increase of drag, stall, energy losses and eventually loss of controlled flight \cite{SIMPSON}.
-\par It is therefore desirable to find methods to control this phenomenon, and if possible to avoid it. All the while not imposing a too heavy penalty such as increase in drag, energy and \textit{etc.}.  
-\par A flow-control device affects the original flow field, thus enabling controlling flow characteristics such as reduction of drag by delaying and/or eliminating separation zones. \par Several examples of flow-control devices include: bumps, vanes (vortex generators) \cite{LIN}, synthetic jets \cite{GLEZER}, bleed/suction, plasma actuators \cite{MOREAU,CORKE} and \textit{etc}.
+Flow separation is generally regarded as an unwanted phenomenon. It mainly concerns flight applications such as airplane wings and stabilizers, but affects as well other fluid dynamics applications such as ground vehicles and internal diffusers flow. When unattended, flow separation can lead to increase of drag, stall, energy losses and eventually loss of controlled flight \cite{SIMPSON}. It is therefore desirable to find methods to control this phenomenon, and if possible to avoid it - all the while not imposing a too heavy penalty such as increase in drag, energy and \textit{etc.}  
+\par A flow-control device affects the original flow field, thus enabling modification of flow characteristics such as reduction of drag by delaying and/or eliminating separation zones. Several examples of flow-control devices include: bumps, vanes (vortex generators), synthetic jets, bleed/suction, plasma actuators and \textit{etc}.
 \subsection{Plasma Actuators}
-The most basic form of a plasma actuator is two electrodes  separated by a dielectric material. Supplying a high enough threshold voltage results in the ionization of the air which then acts as a discharge and interacts with the background air \cite{CORKE}.
-The interaction between the plasma and the background air can be divided to three categories \cite{FLOWCTRL}: momentum, shock and chemical effects. Momentum effects are usually bounded to slow airflows while inducing surface flow velocities in the order of ~10$m/s$ \cite{FLOWCTRL,KOK,WHALLEY}. Shock effects induce very high local gas conditions such as pressure or temperature which create gradients with the background air. Chemical effect adds new particles, such as ions, electrons, excited particles into the flow field. In \cite{GLEZER,MOREAU,CORKE,FLOWCTRL,KOK,WHALLEY} it is shown that plasma actuators can be applied in many forms effectively for flow control. 
+%The most basic form of a plasma actuator is two electrodes  separated by a dielectric material. Supplying a high enough threshold voltage results in the ionization of the air which then acts as a discharge and interacts with the background air \cite{CORKE}.
+The interaction between the plasma and the background air can be divided to three categories \cite{FLOWCTRL}: momentum, shock and chemical effects. Momentum effects induce near surface flow velocities. Shock effects induce very high local gas conditions such as pressure or temperature which create gradients with the background air. Chemical effect adds new particles, such as ions, electrons, excited particles into the flow field. The most studied plasma actuator configuration is the dielectric barrier discharge (DBD) which is capable of inducing up to $\sim10$ $m/s$ flows \cite{FLOWCTRL,KOK,WHALLEY,MOREAU}.
 \subsection{Cathodic Arc induced Jets}
 Cathodic arcs are based upon a cathode which is separated by a dielectric to an anode, coated by a ceramic surface and a resistance lowering material layer (\textit{i.e} graphite \cite{KR}). Applying enough voltage creates a current discharge which in turn leads to emission of metallic plasma from small and mobile regions on the cathode surface. 
-\par In a recent study \cite{KR}, cathodic arcs operating at atmospheric pressure environment were shown to produce fast jets of gas. It is demonstrated that a Cathodic Arc Jet (CAJ) pulse generated in an atmospheric environment, which is characterized by a time scale of hundreds of $\mu$s is capable of affecting the background still air by inducing a local flow field up to velocities of $\ge$ 100 $m/s$. 
-\par The jet direction was shown to be controlled by the application of an external magnetic field which affected the direction's rotation according to Lorentz force direction. 
+\par In a recent study \cite{KR}, cathodic arcs operating at atmospheric pressure environment were shown to produce fast jets of gas. It is demonstrated that a Cathodic Arc Jet (CAJ) pulse generated in an atmospheric environment, which is characterized by a time scale of hundreds of $\mu$s is capable of affecting the background still air by inducing a local flow field up to velocities of $\ge$ 100 $m/s$. The jet direction was shown to be controlled by the application of an external magnetic field which affected the direction's rotation according to Lorentz force direction. 
 \par The results obtained in \cite{KR} suggest the possible use of a CAJ as a flow-control device, in a way similar to plasma synthetic jets. The ability to change the CAJ direction by applying an external magnetic field results in a possible usage of a CAJ as follows:
 \begin{enumerate}
-	\item Re-energizing the separated region by inducing high streamwise velocities close to the wall.
-	\item Inducing vertical velocity, perpendicular to the wall, thus generating a body force in the spanwise direction which in turn creates a coherent streamwise vortex that re-energizes the near wall region by mixing the flow with flow outside the boundary layer. 
+	\item Enhance the turbulet mixing in order to avoid flow separation.
+	\item To generate transient disturbances with specific amplitude and frequencies for the excitation of instabilities. 
+	\item To reduce the curvature of stream lines at desired locations, for example on highly loaded airfoils.
 \end{enumerate} 
 \section{Objectives}
 The proposed research contains two main objectives:
@@ -54,21 +53,21 @@ A 2D set of Navier-Stokes equations (NS) containing the CAJ as a time lapsing bo
 \begin{thebibliography}{99}
 
 \bibitem{SIMPSON}
-	R. L. Simpson, \emph{``Turbulent boundary-layer separation"} Annual Review of Fluid Mechanics 21.1 (1989), pp. 205-232.‏
-\bibitem{LIN}
-	J. Lin, \emph{ ``Review of Research on Low-Profile Vortex Generators to Control Boundary-Layer Separation''}. Progress in Aerospace Science 38 (2002), pp. 389-420.
-\bibitem{GLEZER}	
-	A. Glezer and M. Amitay, \emph{``Synthetic jets''}. Annual Review of Fluid Mechanics 34.1 (2002), pp. 503-529.‏
-\bibitem{MOREAU}
-	E. Moreau, \emph{ ``Airflow Control by Non-Thermal Plasma Actuators''}. Journal of Physics D: Applied Physics 40 (2007), pp. 605-636.
-\bibitem{CORKE}
-	T. Corke and M. Post, \emph{``Overview of plasma flow control: concepts, optimization, and applications"}. AIAA 563 (2005).‏
+	R. L. Simpson, \emph{``Turbulent boundary-layer separation"}. Annual Review of Fluid Mechanics 21.1 (1989), pp. 205-232.‏
 \bibitem{FLOWCTRL}
 	Ying-hong Li, Yun Wu, Hui-min Song, Hua Liang and Min Jia, \emph{``Plasma Flow Control''}. Aeronautics and Astronautics, Prof. Max Mulder (Ed.), ISBN: 978-953-307-473-3, InTech (2011); doi: 10.5772/17935. 
+%\bibitem{LIN}
+%	J. Lin, \emph{ ``Review of Research on Low-Profile Vortex Generators to Control Boundary-Layer Separation''}. Progress in Aerospace Science 38 (2002), pp. 389-420.
+%\bibitem{GLEZER}	
+%	A. Glezer and M. Amitay, \emph{``Synthetic jets''}. Annual Review of Fluid Mechanics 34.1 (2002), pp. 503-529.‏
+%\bibitem{CORKE}
+%	T. Corke and M. Post, \emph{``Overview of plasma flow control: concepts, optimization, and applications"}. AIAA 563 (2005).‏
 \bibitem{KOK}
 	J.C. Kok, P. Catalano, K. Kourtzanidis, F. Rogier and T. Unfer, \emph{``Coupling of CFD with advanced plasma models''}. ERCOFTAC Bulletin 94 (2013), pp. 29-34.
 \bibitem{WHALLEY}
 	R.D. Whalley, A. Debien, J. Podlinski, T.N. Jukes, K.S. Choi, N. Benard, E. Moreau, A. Berendt and J. Mizeraczyk, \emph{``Trailing-Edge Separation Control of a NACA 0015 Airfoil Using Dielectric-Barrier-Discharge Plasma Actuators''}. ERCOFTAC Bulletin 94 (2013), pp. 35-40.
+\bibitem{MOREAU}
+	E. Moreau, \emph{ ``Airflow Control by Non-Thermal Plasma Actuators''}. Journal of Physics D: Applied Physics 40 (2007), pp. 605-636.
 \bibitem{KR}
 	I. Kronhaus, S. Eichler and J. Schein,
 	\emph{``Schlieren characterization of gas flows generated by cathodic arcs in atmospheric pressure environment”}. Applied Physics Letters 104, 063507 (2014); doi: 10.1063/1.4865397.
